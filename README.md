@@ -7,4 +7,5 @@ PyTrading is fully working automated trading system for Indian stock market
 3) ...
 
 # System Architecture:
-![image](https://github.com/user-attachments/assets/b08e8b15-9ed4-48c0-b70b-39d14d3335d4)
+![image](https://github.com/user-attachments/assets/e095e710-3de3-4d1e-95de-216fa9f4fe92)
+
